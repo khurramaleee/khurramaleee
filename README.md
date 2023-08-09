@@ -11,6 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+https://www.khurramsoftware.com
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khurram Ali</h1>
-<h3 align="center">Software Engineer | Front-End -> Flutter Developer | Back-End -> Django 
+<h3 align="center">Software Engineer |Flutter | Django 
 
 </h3>
 

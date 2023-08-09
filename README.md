@@ -7,16 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Uber Clone App**
-
-- 🌱 I’m currently learning **Google cloud**
-
-- 📝 I regularly write articles on [khurramsoftware.com](khurramsoftware.com)
-
-- 💬 Ask me about **Flutter**
-
-- 📫 How to reach me **khurramali63@gmail.com**
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->

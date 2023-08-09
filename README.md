@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khurram Ali</h1>
-<h3 align="center">Software Engineer | Flutter Developer</h3>
+<h3 align="center">Software Engineer | Front-End -> Flutter Developer | Back-End -> Django 
+
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khurramaleee&label=Profile%20views&color=0e75b6&style=flat" alt="khurramaleee" /> </p>
 

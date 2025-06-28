@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/p4G4g5G.png" alt="Hi, I'm Khurram Ali - Software Engineer"/>
+  <img src="https://avatars.githubusercontent.com/u/38392342?v=4" alt="Hi, I'm Khurram Ali - Software Engineer"/>
 </p>
 
 <div id="user-content-toc">

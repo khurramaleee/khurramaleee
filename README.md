@@ -1,3 +1,23 @@
+Of course\! That's an excellent strategy. Instead of tying your profile to a single project, we'll create a powerful, skill-focused section that showcases your Flutter expertise directly to recruiters and potential clients.
+
+This new section is designed to be a high-impact summary of what you can deliver as a Flutter developer. It's detailed, professional, and uses keywords that recruiters look for.
+
+### Why this new section is more effective:
+
+  * **Recruiter-Focused:** It directly addresses what a hiring manager or client wants to know: "What can you *build*?"
+  * **Skill-Centric:** It breaks down your Flutter capabilities into specific, high-value skills like state management, API integration, and native features.
+  * **Showcases Versatility:** It demonstrates that you're not just a one-project developer but someone with a comprehensive understanding of the entire app development lifecycle.
+  * **Professional & Confident Tone:** The language is polished and asserts your expertise, making a strong first impression.
+
+-----
+
+### Updated `README.md` Code
+
+Here is the complete, updated code for your `README.md` file. I have replaced the old "Spotlight" section with the new "Flutter Development Expertise" section.
+
+**Instructions:** Simply copy and paste this entire block into your `README.md` file.
+
+```markdown
 <p align="center">
   <img src="https://i.imgur.com/p4G4g5G.png" alt="Hi, I'm Khurram Ali - Software Engineer"/>
 </p>
@@ -26,19 +46,25 @@
 
 ---
 
-### 🔭 Spotlight on My Current Work
+### 📱 Flutter Development Expertise
 
-<details>
-  <summary><strong>CT Club - Flutter WordPress App</strong></summary>
-  <br>
-  I am currently the lead developer for the **CT Club Flutter App**, a mobile application for a WordPress-based learning platform. My primary role involves developing a clean and efficient Flutter frontend that communicates seamlessly with a WordPress backend via REST APIs.
-  <ul>
-    <li>📱 **Frontend:** Crafted a responsive and user-friendly interface using Flutter.</li>
-    <li>⚙️ **Backend Integration:** Managing API endpoints for content, user authentication, and other dynamic features.</li>
-    <li>🚀 **Deployment:** Successfully published and maintaining the app on the <a href="https://play.google.com/store/apps/details?id=com.learningcrypto.ctclub">Google Play Store</a>.</li>
-    <li>🛠️ **Tech Stack:** Flutter, Dart, WordPress REST API, Firebase.</li>
-  </ul>
-</details>
+As a dedicated Flutter developer, I build high-performance, cross-platform mobile applications from concept to deployment. My expertise covers the entire development lifecycle, ensuring a polished and robust final product.
+
+* **🎨 Pixel-Perfect UI/UX:** I translate complex Figma and Adobe XD designs into beautiful, responsive layouts using Flutter's widget system, ensuring a native look and feel on both iOS and Android.
+
+* **⚙️ Advanced State Management:** I architect scalable and maintainable apps using industry-standard state management solutions like `Provider`, `Bloc`, and `Riverpod`.
+
+* **🔗 Seamless API Integration:** I excel at connecting apps to backend services, whether it's a custom **Django REST API**, a **Firebase** backend, or any other third-party RESTful or GraphQL service.
+
+* **🔥 Firebase & BaaS:** I leverage the full power of Firebase for authentication, Firestore/Realtime Database, cloud functions, push notifications (FCM), and analytics to build feature-rich applications quickly.
+
+* **🚀 Performance Optimization:** I am skilled at profiling and debugging Flutter apps to resolve performance bottlenecks, ensuring smooth animations and a fast, responsive user experience.
+
+* **📱 Native Feature Access:** I confidently bridge the gap between Flutter and native platforms to integrate device hardware like the **camera**, **GPS (location services)**, and more using platform channels.
+
+* **✅ Testing & Deployment:** I write clean, testable code and have hands-on experience deploying and managing applications on the **Google Play Store** and **Apple App Store**.
+
+---
 
 ### 🌱 My Learning Journey
 
@@ -48,7 +74,7 @@ I'm dedicated to lifelong learning and am currently deepening my expertise in ba
 
 ### 🛠️ My Tech Stack & Tools
 
-Here are the primary technologies I work with. If you have a question about any of these, feel free to ask!
+If you have a question about any of these, feel free to ask!
 
 <table width="100%">
   <tr>
@@ -136,3 +162,4 @@ Here are the primary technologies I work with. If you have a question about any 
   <a href="https://medium.com/@khurramali63" target="_blank"><img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="https://www.youtube.com/c/khurramdev" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 </p>
+```
